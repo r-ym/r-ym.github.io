@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[resume](https://r-ym.github.io/resume/resume.pdf)
+Here is my [resume](https://r-ym.github.io/resume/resume.pdf)
 
 ## Ultra - Super fast Jekyll theme 
 
