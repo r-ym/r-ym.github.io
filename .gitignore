@@ -5,12 +5,6 @@ _site
 vendor
 
 #resume
-_resume/RAMAN Y MATHUR resume.aux
-_resume/RAMAN Y MATHUR resume.fdb_latexmk
-_resume/RAMAN Y MATHUR resume.fls
-_resume/RAMAN Y MATHUR resume.log
-_resume/RAMAN Y MATHUR resume.synctex.gz
-_resume/RAMAN Y MATHUR resume.tex
 *.aux
 *.fdb_latexmk
 *.fls
