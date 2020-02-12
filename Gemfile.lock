@@ -54,9 +54,14 @@ GEM
     octokit (4.15.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+    pagemaster (2.1.2)
+      jekyll (~> 4)
+      rainbow (~> 3.0)
+      safe_yaml (~> 1.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.3)
+    rainbow (3.0.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -80,6 +85,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  pagemaster
 
 BUNDLED WITH
    2.1.0

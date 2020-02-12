@@ -1,0 +1,5 @@
+---
+"\uFEFFauthors": Helen Dewitt
+title: 'Some Trick: Thirteen Stories'
+layout: post
+---

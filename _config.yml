@@ -1,10 +1,13 @@
 site: Raman
 url: r-ym.github.io
-title: Dilli
+title: Khiladi
 description: Personal website
 instagram:
   username: ramanyachi
   card: summary
+
+plugins:
+  - pagemaster
 
 permalink: pretty
 
@@ -36,6 +39,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug
+  books:
+    output: true
+    source: Current.csv
+    id_key: title
+    layout: post
   
 defaults:
   -
