@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Marcus Aurelius
+author: Marcus Aurelius
 title: Meditations
-layout: post
+layout: book
 ---

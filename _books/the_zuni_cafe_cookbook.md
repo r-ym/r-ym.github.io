@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Judy Rodgers
+author: Judy Rodgers
 title: The Zuni Cafe Cookbook
-layout: post
+layout: book
 ---

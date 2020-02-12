@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": John Banville
+author: John Banville
 title: The Untouchable
-layout: post
+layout: book
 ---

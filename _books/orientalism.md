@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Edward W Said
+author: Edward W Said
 title: Orientalism
-layout: post
+layout: book
 ---

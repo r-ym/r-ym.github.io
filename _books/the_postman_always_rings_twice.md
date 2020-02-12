@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": James M. Cain
+author: James M. Cain
 title: The Postman Always Rings Twice
-layout: post
+layout: book
 ---

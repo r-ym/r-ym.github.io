@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Krishna Dutta
+author: Krishna Dutta
 title: The Dal Cookbook
-layout: post
+layout: book
 ---

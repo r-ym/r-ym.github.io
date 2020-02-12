@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Isaac Bashevis Singer
+author: Isaac Bashevis Singer
 title: Collected Stories
-layout: post
+layout: book
 ---

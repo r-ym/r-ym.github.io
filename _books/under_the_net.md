@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Iris Murdoch
+author: Iris Murdoch
 title: Under the net
-layout: post
+layout: book
 ---

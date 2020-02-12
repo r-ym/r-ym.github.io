@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Andy Ricker
+author: Andy Ricker
 title: 'Pok Pok: Drinking'
-layout: post
+layout: book
 ---

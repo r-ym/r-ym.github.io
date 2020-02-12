@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": David Chang
+author: David Chang
 title: Momofuku
-layout: post
+layout: book
 ---

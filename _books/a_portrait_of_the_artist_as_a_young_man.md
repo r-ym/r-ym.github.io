@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": James Joyce
+author: James Joyce
 title: A Portrait Of The Artist As A Young Man
-layout: post
+layout: book
 ---

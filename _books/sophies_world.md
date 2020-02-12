@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Jostein Gaarder
+author: Jostein Gaarder
 title: Sophie's World
-layout: post
+layout: book
 ---

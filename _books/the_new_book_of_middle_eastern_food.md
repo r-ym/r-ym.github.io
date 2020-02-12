@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Claudia Roden
+author: Claudia Roden
 title: The new book of Middle Eastern food
-layout: post
+layout: book
 ---

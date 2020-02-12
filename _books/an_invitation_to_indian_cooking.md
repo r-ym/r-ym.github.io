@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Madhur Jaffrey
+author: Madhur Jaffrey
 title: An Invitation to Indian Cooking
-layout: post
+layout: book
 ---

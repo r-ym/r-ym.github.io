@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Frederick Copleston
+author: Frederick Copleston
 title: 'Vol2: Medieval Philosophy'
-layout: post
+layout: book
 ---

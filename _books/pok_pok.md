@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Andy Ricker
+author: Andy Ricker
 title: Pok Pok
-layout: post
+layout: book
 ---

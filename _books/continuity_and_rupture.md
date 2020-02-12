@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": J. Moufawad Paul
+author: J. Moufawad Paul
 title: Continuity and Rupture
-layout: post
+layout: book
 ---

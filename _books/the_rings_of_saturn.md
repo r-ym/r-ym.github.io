@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": W. G. Sebald
+author: W. G. Sebald
 title: The Rings of Saturn
-layout: post
+layout: book
 ---

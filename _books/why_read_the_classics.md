@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: Why Read the Classics?
-layout: post
+layout: book
 ---

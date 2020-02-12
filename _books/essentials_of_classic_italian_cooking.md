@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Marcella Hazan
+author: Marcella Hazan
 title: Essentials of Classic Italian Cooking
-layout: post
+layout: book
 ---

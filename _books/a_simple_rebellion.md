@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Christopher Ryan
+author: Christopher Ryan
 title: A Simple Rebellion
-layout: post
+layout: book
 ---

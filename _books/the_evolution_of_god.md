@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Rob Wright
+author: Rob Wright
 title: The Evolution Of God
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Cixin Liu
+author: Cixin Liu
 title: The Three-Body Problem
-layout: post
+layout: book
 ---

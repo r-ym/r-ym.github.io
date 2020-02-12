@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Brett L. Walker
+author: Brett L. Walker
 title: A Concise History of Japan
-layout: post
+layout: book
 ---

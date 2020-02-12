@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Elizabeth Andoh
+author: Elizabeth Andoh
 title: Washoku
-layout: post
+layout: book
 ---

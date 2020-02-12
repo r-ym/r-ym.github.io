@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: Numbers in the Dark and Other Stories
-layout: post
+layout: book
 ---

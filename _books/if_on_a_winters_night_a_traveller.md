@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: If On a Winter's Night a Traveller
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Douglas R. Hofstadter
+author: Douglas R. Hofstadter
 title: I Am a Strange Loop
-layout: post
+layout: book
 ---

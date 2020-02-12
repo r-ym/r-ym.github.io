@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Don DeLillo
+author: Don DeLillo
 title: Underworld
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Christopher Ryan
+author: Christopher Ryan
 title: Civilized to Death
-layout: post
+layout: book
 ---

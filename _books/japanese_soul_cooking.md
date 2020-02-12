@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Tadashi Ono
+author: Tadashi Ono
 title: Japanese Soul Cooking
-layout: post
+layout: book
 ---

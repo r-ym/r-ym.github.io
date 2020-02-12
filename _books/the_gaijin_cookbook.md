@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Ivan Orkin
+author: Ivan Orkin
 title: The Gaijin Cookbook
-layout: post
+layout: book
 ---

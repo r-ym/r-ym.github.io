@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": David Abram
+author: David Abram
 title: The Spell of the Sensuous
-layout: post
+layout: book
 ---

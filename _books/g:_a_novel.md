@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": John Berger
+author: John Berger
 title: 'G.: A Novel'
-layout: post
+layout: book
 ---

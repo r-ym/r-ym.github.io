@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Leela Punyaratabandhu
+author: Leela Punyaratabandhu
 title: Simple Thai Food
-layout: post
+layout: book
 ---

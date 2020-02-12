@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": René Redzepi
+author: René Redzepi
 title: The Noma Guide to Fermentation
-layout: post
+layout: book
 ---

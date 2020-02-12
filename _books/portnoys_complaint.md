@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Philip Roth
+author: Philip Roth
 title: Portnoy's Complaint
-layout: post
+layout: book
 ---

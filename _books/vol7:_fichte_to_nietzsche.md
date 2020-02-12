@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Frederick Copleston
+author: Frederick Copleston
 title: 'Vol7: Fichte to Nietzsche'
-layout: post
+layout: book
 ---

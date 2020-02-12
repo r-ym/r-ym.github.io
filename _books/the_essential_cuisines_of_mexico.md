@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Diana Kennedy
+author: Diana Kennedy
 title: The Essential Cuisines of Mexico
-layout: post
+layout: book
 ---

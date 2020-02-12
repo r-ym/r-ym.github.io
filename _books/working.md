@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Studs Terkel
+author: Studs Terkel
 title: Working
-layout: post
+layout: book
 ---

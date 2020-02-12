@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": James Baldwin
+author: James Baldwin
 title: Go Tell It On The Mountain
-layout: post
+layout: book
 ---

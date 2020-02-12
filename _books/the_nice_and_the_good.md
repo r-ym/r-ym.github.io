@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Iris Murdoch
+author: Iris Murdoch
 title: The Nice and the Good
-layout: post
+layout: book
 ---

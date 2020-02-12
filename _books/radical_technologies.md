@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Adam Greenfield
+author: Adam Greenfield
 title: Radical Technologies
-layout: post
+layout: book
 ---

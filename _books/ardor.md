@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Roberto Calasso
+author: Roberto Calasso
 title: Ardor
-layout: post
+layout: book
 ---

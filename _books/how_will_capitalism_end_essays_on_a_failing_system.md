@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Wolfgang Streeck
+author: Wolfgang Streeck
 title: How Will Capitalism End Essays on a Failing System
-layout: post
+layout: book
 ---

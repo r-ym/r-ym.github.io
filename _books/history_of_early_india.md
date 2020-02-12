@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Romila Thapar
+author: Romila Thapar
 title: History of Early India
-layout: post
+layout: book
 ---

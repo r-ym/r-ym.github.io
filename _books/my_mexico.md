@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Diana Kennedy
+author: Diana Kennedy
 title: My Mexico
-layout: post
+layout: book
 ---

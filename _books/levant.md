@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Anissa Helou
+author: Anissa Helou
 title: Levant
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Lior Lev Sercarz
+author: Lior Lev Sercarz
 title: The Spice Companion
-layout: post
+layout: book
 ---

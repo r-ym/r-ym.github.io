@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for book in site.books %}
+<article role="article">
+  <h4><a href="{{ site.baseurl }}{{ book.url }}">
+    {{ book.title }}
+  </a></h4>
+</article>
+{% endfor %}

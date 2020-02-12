@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: The Complete Cosmicomics
-layout: post
+layout: book
 ---

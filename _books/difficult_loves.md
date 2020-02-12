@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: Difficult Loves
-layout: post
+layout: book
 ---

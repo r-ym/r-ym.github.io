@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": David Abram
+author: David Abram
 title: Becoming Animal
-layout: post
+layout: book
 ---

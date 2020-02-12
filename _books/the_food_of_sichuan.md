@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Fuchsia Dunlop
+author: Fuchsia Dunlop
 title: The Food of Sichuan
-layout: post
+layout: book
 ---

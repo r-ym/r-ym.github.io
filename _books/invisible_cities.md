@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Italo Calvino
+author: Italo Calvino
 title: Invisible Cities
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Fuchsia Dunlop
+author: Fuchsia Dunlop
 title: Every Grain of Rice
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Roberto Calasso
+author: Roberto Calasso
 title: The Marriage of Cadmus and Harmony
-layout: post
+layout: book
 ---

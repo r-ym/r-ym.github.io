@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Helen Dewitt
+author: Helen Dewitt
 title: The Last Samurai
-layout: post
+layout: book
 ---

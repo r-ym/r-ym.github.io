@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Deuki-Hong
+author: Deuki-Hong
 title: Koreatown
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Anissa Helou
+author: Anissa Helou
 title: Feast
-layout: post
+layout: book
 ---

@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": James Gleick
+author: James Gleick
 title: The Information
-layout: post
+layout: book
 ---

@@ -1,7 +1,7 @@
 site: Raman
 url: r-ym.github.io
-title: Khiladi
-description: Personal website
+title: TESTTTT
+description: International Khiladi
 instagram:
   username: ramanyachi
   card: summary
@@ -43,7 +43,9 @@ collections:
     output: true
     source: Current.csv
     id_key: title
-    layout: post
+    layout: book
+    author: authors
+    permalink: /books/:slug
   
 defaults:
   -

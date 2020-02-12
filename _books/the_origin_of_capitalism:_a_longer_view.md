@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Ellen Meiksins Wood
+author: Ellen Meiksins Wood
 title: 'The Origin of Capitalism: A Longer View'
-layout: post
+layout: book
 ---

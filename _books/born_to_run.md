@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Bruce Springsteen
+author: Bruce Springsteen
 title: Born to Run
-layout: post
+layout: book
 ---

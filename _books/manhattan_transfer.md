@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": John Dos Passos
+author: John Dos Passos
 title: Manhattan Transfer
-layout: post
+layout: book
 ---

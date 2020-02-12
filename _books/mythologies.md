@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Roland Barthes
+author: Roland Barthes
 title: Mythologies
-layout: post
+layout: book
 ---

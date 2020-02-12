@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": J.M. Coetzee
+author: J.M. Coetzee
 title: Disgrace
-layout: post
+layout: book
 ---

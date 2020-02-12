@@ -1,5 +1,5 @@
 ---
-"\uFEFFauthors": Maangchi
+author: Maangchi
 title: Maangchi's Real Korean Cooking
-layout: post
+layout: book
 ---
