@@ -2,4 +2,9 @@
 layout: page
 title: About
 ---
-Here is my [resume](https://r-ym.github.io/resume/resume.pdf).<br />
+<a href="https://r-ym.github.io/resume/resume.pdf" target="_parent">Visit W3Schools!</a>
+
+[Resume](https://r-ym.github.io/resume/resume.pdf), [Github](https://github.com/r-ym), [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ)<br/>
+<br/>
+personal: ramanyachi[at]gmail.com
+
