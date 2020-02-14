@@ -1,7 +1,7 @@
 site: Raman
 url: r-ym.github.io
-title: TESTTTT
-description: International Khiladi
+title: 
+description: अंतरराष्ट्रीय खिलाड़ी
 instagram:
   username: ramanyachi
   card: summary
@@ -44,7 +44,6 @@ collections:
     source: Current.csv
     id_key: title
     layout: book
-    author: authors
     permalink: /books/:slug
   
 defaults:
