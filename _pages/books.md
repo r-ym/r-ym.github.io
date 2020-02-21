@@ -1,4 +1,0 @@
----
-layout: books
-title: Books
----
