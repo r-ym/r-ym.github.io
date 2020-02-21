@@ -1,0 +1,48 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Martel|Roboto+Slab);
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif+JP);
+@import url(https://fonts.googleapis.com/css?family=Martel);
+
+
+/* font-family: 'Noto Serif JP', sans-serif;
+font-family: 'Martel', serif;
+font-family: 'Roboto Slab', serif; */
+
+/* Global */
+html{
+  min-height: 100%;
+  overflow: hidden;
+}
+body{
+  height: calc(100vh - 8em);
+  padding: 4em;
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto Slab', monospace;  
+  background-color: rgb(255, 255, 255);  
+}
+.line-1{
+    position: relative;
+    top: 50%;  
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);    
+}
+
+/* Animation */
+.anim-typewriter{
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 9em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgb(0, 0, 0);}
+  to{border-right-color: transparent;}
+}

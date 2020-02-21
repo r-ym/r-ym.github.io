@@ -7,4 +7,5 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 group :jekyll_plugins do
   gem 'pagemaster'
+  gem 'jekyll-compose'
 end
