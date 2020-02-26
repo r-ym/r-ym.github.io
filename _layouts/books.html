@@ -1,0 +1,22 @@
+---
+layout: default
+---
+Below are reviews and musings on the books I have on my Kindle. I write these to whittle away at whatever little I understood in the hopes to find something tractable, and thus meaningful outside of my own experience. As for the various cookbooks, attempts at recipes and their respective successes and failures. This I suppose is analogous to .<br />
+<br />
+The Posts are auto-generated from Calibre library via a custom gem. Most reviews are unfinished but I have left them up to hold myself accountable to you, the dear reader. Once I complete reviewing a certain book it's title will float upwards, hyperlinked.<br />
+<br />
+{% for book in site.books %}
+  {% if book.link %}
+    <article role="article"></article>
+    <b><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</b></a> <i>by {{ book.author }}</i>
+    </article>
+  {% endif %}
+{% endfor %}
+
+{% for book in site.books %}
+  {% if book.link == false %}
+    <article role="article"></article>
+    <b>{{ book.title }}</b> <i>by {{ book.author }}</i>
+    </article>
+  {% endif %}
+{% endfor %}
