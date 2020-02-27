@@ -1,10 +1,26 @@
 ---
-author: Iris Murdoch
+"\uFEFFauthor_sort": Murdoch, Iris
+authors: Iris Murdoch
+comments: ''
+cover: "/Users/Raman/Calibre Library/Iris Murdoch/The Nice and the Good (99)/cover.jpg"
+formats: mobi
+id: '99'
+identifiers: ''
+isbn: ''
+languages: ''
+library_name: Calibre Library
+pubdate: '0101-01-01T09:00:00+09:00'
+publisher: ''
+rating: ''
+series: ''
+series_index: '1.0'
+size: '676688'
+tags: ''
+timestamp: '0101-01-01T09:00:00+09:00'
 title: The Nice and the Good
+title_sort: Nice and the Good, The
+uuid: 415ae63d-d218-41de-bded-8f8e40df9ce2
+"#format": MOBI
 layout: book
-link: true
+link: false
 ---
-Dont know what it is about Murdoch's aesthetic that makes it so distinctive. The elements are almost uniform, a character, their decisions, the subsequent muddle, a medium for them to swim in. All of it drifting on some indescribable ether in a universe similiar to ours, save for one metaphysical law or the other. The way the characters grow and shrink in proportion. Seeming grand one moment, and despicable the next, self-loathing at times when you want to yank them and ask why. The hysterisis is jarring but Murdoch somehow cuts through the muddle and you follow suit, albeit in a janky staggered motion.
-
-
-Where do you arrive at? What is communication and is it ever truthful within the web of our lives.

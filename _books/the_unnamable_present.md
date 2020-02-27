@@ -2,10 +2,9 @@
 "\uFEFFauthor_sort": Calasso, Roberto
 authors: Roberto Calasso
 comments: ''
-cover: "/Users/Raman/Calibre Library/Roberto Calasso/The Marriage of Cadmus and Harmony
-  (86)/cover.jpg"
+cover: "/Users/Raman/Calibre Library/Roberto Calasso/The Unnamable Present (215)/cover.jpg"
 formats: mobi
-id: '86'
+id: '215'
 identifiers: ''
 isbn: ''
 languages: ''
@@ -15,12 +14,12 @@ publisher: ''
 rating: ''
 series: ''
 series_index: '1.0'
-size: '2645175'
+size: '355980'
 tags: ''
 timestamp: '0101-01-01T09:00:00+09:00'
-title: The Marriage of Cadmus and Harmony
-title_sort: Marriage of Cadmus and Harmony, The
-uuid: 56a05d63-fb1a-41f0-8add-8120e6f8eedc
+title: The Unnamable Present
+title_sort: Unnamable Present, The
+uuid: e2f1b73e-1291-4f5d-8a3e-fb76cb12597b
 "#format": MOBI
 layout: book
 link: false
