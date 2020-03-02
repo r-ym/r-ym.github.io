@@ -11,5 +11,5 @@ vendor
 *.log
 *.gz
 *.tex
-_data/Current.csv
-_data/Current.csv
+_data/Currents.csv
+cutter.py

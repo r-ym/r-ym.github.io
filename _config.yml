@@ -41,7 +41,7 @@ collections:
     permalink: /projects/:slug
   books:
     output: true
-    source: Current.csv
+    source: Currents.csv
     id_key: title
     layout: book
     permalink: /books/:slug

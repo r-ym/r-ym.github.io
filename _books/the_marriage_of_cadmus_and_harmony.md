@@ -1,27 +1,6 @@
 ---
-"\uFEFFauthor_sort": Calasso, Roberto
 authors: Roberto Calasso
-comments: ''
-cover: "/Users/Raman/Calibre Library/Roberto Calasso/The Marriage of Cadmus and Harmony
-  (86)/cover.jpg"
-formats: mobi
-id: '86'
-identifiers: ''
-isbn: ''
-languages: ''
-library_name: Calibre Library
-pubdate: '0101-01-01T09:00:00+09:00'
-publisher: ''
-rating: ''
-series: ''
-series_index: '1.0'
-size: '2645175'
-tags: ''
-timestamp: '0101-01-01T09:00:00+09:00'
 title: The Marriage of Cadmus and Harmony
-title_sort: Marriage of Cadmus and Harmony, The
-uuid: 56a05d63-fb1a-41f0-8add-8120e6f8eedc
-"#format": MOBI
 layout: book
 link: false
 ---

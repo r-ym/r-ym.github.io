@@ -8,7 +8,7 @@ The Posts are auto-generated from Calibre library via a custom gem. Most reviews
 {% for book in site.books %}
   {% if book.link %}
     <article role="article"></article>
-    <b><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</b></a> <i>by {{ book.author }}</i>
+    <b><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</b></a> <i>by {{ book.authors }}</i>
     </article>
   {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ The Posts are auto-generated from Calibre library via a custom gem. Most reviews
 {% for book in site.books %}
   {% if book.link == false %}
     <article role="article"></article>
-    <b>{{ book.title }}</b> <i>by {{ book.author }}</i>
+    <b>{{ book.title }}</b> <i>by {{ book.authors }}</i>
     </article>
   {% endif %}
 {% endfor %}
