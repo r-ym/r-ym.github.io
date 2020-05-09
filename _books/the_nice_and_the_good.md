@@ -4,7 +4,7 @@ title: The Nice and the Good
 layout: book
 link: true
 ---
-Dont know what it is about Murdoch's aesthetic that makes it so distinctive. The elements are almost uniform, a character, their decisions, the subsequent muddle, a medium for them to swim in. All of it drifting on some indescribable ether in a universe similiar to ours, save for one metaphysical law or the other. The way the characters grow and shrink in proportion. Seeming grand one moment, and despicable the next, self-loathing at times when you want to yank them and ask why. The hysterisis is jarring but Murdoch somehow cuts through the muddle and you follow suit, albeit in a janky staggered motion.
+Dont know what it is about Murdoch's aesthetic that makes it so distinctive. The elements are almost uniform, a character, their decisions, the subsequent muddle, a medium for them to swim in. All of it drifting on some indescribable ether in a universe similiar to ours, save for one metaphysical law or the other. The way the characters grow and shrink. Seemingly grand one moment, small and despicable the next. The hysterisis is jarring but Murdoch somehow cuts through the muddle and you follow her obediently but with an unsure gait.
 
 'Burn After Reading'-esque conspiracy brewing.
 
