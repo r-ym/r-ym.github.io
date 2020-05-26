@@ -57,13 +57,10 @@ title: About
               </header>
               <div>
                 <p>
-                  I work closely with designers and product managers on cross-functional teams to launch experiments in
-                  the form of prototypes and A/B tests. As well as this, I contribute to our company-wide design system
-                  and component library with an emphasis on accessibility.
+                 TESTSTSTSTSTS
                 </p>
                 <p>
-                  By my own initiative, I also train full-stack engineers in modern front-end practices with workshops
-                  and in pairing sessions for our production codebase.
+                  TESTSTSTSTSTSTST
                 </p>
               </div>
             </li>
@@ -80,12 +77,10 @@ title: About
               </header>
               <div>
                 <p>
-                  Here I built a one-to-many chat application to handle many thousands of customer interactions at
-                  Tabiko.ai. It offers a high performance UI to manage payments, itineraries and travel-related search.
+                  TEST
                 </p>
                 <p>
-                  I introduced practices such as Test-Driven-Development and code-reviews to bring the engineering team
-                  to new levels of productivity.
+                  TEST
                 </p>
               </div>
             </li>
@@ -102,13 +97,10 @@ title: About
               </header>
               <div>
                 <p>
-                  Here I helped build <em>Dimare</em>, a work-shift management software for several restaurant chains in
-                  South-East-Asia. I worked closely with designers to realize the UX vision for the product, while also
-                  consulting with our clients to identify their use-cases and pain-points.
+                  TEST
                 </p>
                 <p>
-                  I worked with a team of six developers, learning about advanced state management, agile methodology
-                  and javascript best-practices.
+                  TEST
                 </p>
               </div>
             </li>
@@ -117,7 +109,7 @@ title: About
 
 
 
-<h3>[ Digital+Physical Space ]</h3>
+<h3>[ DIGITAL + PHYSICAL space ]</h3>
 &#x26D3; [Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ) [Apple Music](https://music.apple.com/profile/ramanyachi) [Instagram](https://www.instagram.com/mxthur/)
 <br>
 <br>
