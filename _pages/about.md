@@ -19,7 +19,7 @@ title: About
 .job-logo-container {
         height: 5rem;
         width: 5rem;
-        margin-top: 0.625rem; /* align optically with job title */
+        /* margin-top: 0.275rem; align optically with job title */
         margin-right: 1rem;
         border: 2px solid;
         padding: 1rem;
@@ -33,6 +33,13 @@ title: About
         width: 100%;
         object-fit: cover;
       }
+.job-title {
+        margin: 0;
+      }
+
+.job-period {
+        font-size: 0.875rem;
+        opacity: 0.8;
 }
 </style>
 <h3>[ EXPERIENCE ]</h3>
@@ -40,12 +47,12 @@ title: About
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/elyah.png" class="job-logo" alt="Indeed logo" />
+                  <img src="/images/work/elyah.png" class="job-logo" alt="Elyah" />
                 </picture>
                 <div>
-                  <h3 class="job-title">Design Technologist</h3>
-                  <div>Indeed · Tokyo</div>
-                  <div class="job-period">Jul 2018 – Present</div>
+                  <h3 class="job-title">Quantum Computing Intern</h3>
+                  <div>Elyah · Tokyo</div>
+                  <div class="job-period">November 2019 – March 2020</div>
                 </div>
               </header>
               <div>
@@ -63,12 +70,12 @@ title: About
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/jm.png" class="job-logo" alt="Tabiko logo" />
+                  <img src="/images/work/jm.png" class="job-logo" alt="JM" />
                 </picture>
                 <div>
-                  <h3 class="job-title">Front-end Developer</h3>
-                  <div>Tabiko.ai · Tokyo</div>
-                  <div class="job-period">Nov 2017 – Jul 2018</div>
+                  <h3 class="job-title">R&D Intern</h3>
+                  <div>Johnson Matthey · Philadelphia</div>
+                  <div class="job-period">September 2018 – April 2019</div>
                 </div>
               </header>
               <div>
@@ -85,12 +92,12 @@ title: About
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/uofs.png" class="job-logo" alt="Fusion Systems logo" />
+                  <img src="/images/work/uofs.png" class="job-logo" alt="Sussex" />
                 </picture>
                 <div>
-                  <h3 class="job-title">Front-end Developer</h3>
-                  <div>Fusion Systems · Tokyo</div>
-                  <div class="job-period">Sep 2016 – Nov 2017</div>
+                  <h3 class="job-title">International Research Scholar</h3>
+                  <div>University of Sussex · East Sussex</div>
+                  <div class="job-period">April 2017 – September 2017</div>
                 </div>
               </header>
               <div>
