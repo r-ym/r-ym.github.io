@@ -57,10 +57,10 @@ title: About
               </header>
               <div>
                 <p>
-                 TESTSTSTSTSTS
+                Worked on the back-end to Elyah's quantum computing simulator. Worked extensively in Rust. Went in with no prior experience in quantum computing, and due to the 6 month duration I had to quickly work up an adequate mental model that could take in complex quantum computing concepts and map them to a programmming basis.
                 </p>
                 <p>
-                  TESTSTSTSTSTSTST
+                In the process I learnt a lot about the field's mathematical foundations, its history and the current state of quantum computing modalities. Quantum and classical computing are distinct and powerful in their own regards and I am eager to see how large-scale quantum computing will be actualised.
                 </p>
               </div>
             </li>
@@ -113,7 +113,7 @@ title: About
 &#x26D3; [Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ) [Apple Music](https://music.apple.com/profile/ramanyachi) [Instagram](https://www.instagram.com/mxthur/)
 <br>
 <br>
-&#x1f48c; ramanyachi[at]gmail.com
+&#x1f48c;  ramanyachi [at] gmail.com
 <br>
 <br>
 &#x1F4CD; Tokyo
