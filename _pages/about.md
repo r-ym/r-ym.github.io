@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 <style>
+
 .job-list {
         list-style: none;
         padding-left: 0;
@@ -77,7 +78,7 @@ title: About
               </header>
               <div>
                 <p>
-                  TEST
+                 Condicted research under the Clean Air Division. 
                 </p>
                 <p>
                   TEST
@@ -97,10 +98,10 @@ title: About
               </header>
               <div>
                 <p>
-                  TEST
+                  Conducted research on perovskite solar cells at the <a href="http://users.sussex.ac.uk/~qc25/index.html" style="font-weight:normal">Chen Nanoscience Lab</a> under Professor Qiao Chen. This entailed fabrication and the study of fabrication methods along with extensive testing to gauge photoconversion efficiency and cell longevity.
                 </p>
                 <p>
-                  TEST
+                  Incredibly grateful to everyone in the group for their support and allowing me to play a part. The steady acceleration to the erosion of our environment concerns and pains me to no end, and it soothes me to know that there exist teams like Prof Chen's working towards sustainability.
                 </p>
               </div>
             </li>
