@@ -78,10 +78,10 @@ title: About
               </header>
               <div>
                 <p>
-                 Condicted research under the Clean Air Division. 
+                 Conducted research on vehicle exhaust emissions control under the Clean Air Division. Specifically on Diesel oxidation catalysts. This involved extensive lab work and data-analysis on material chemistry and conversion dynamics, while also taking into account the costs of scaling from lab to production level.
                 </p>
                 <p>
-                  TEST
+                  First experience in a b2b corporation where I learnt more about the forces that shape scientific research in a corporate institution. An immensely educational experience.
                 </p>
               </div>
             </li>
