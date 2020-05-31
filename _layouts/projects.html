@@ -8,6 +8,6 @@ layout: default
     {{ project.title }}
   </a></h2>
   <p>{{ project.summary }}</p>
-    <time class="date" datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date: "%Y" }} &middot; {{ project.category }}</time>
+    <time class="date" datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date: "%Y" }}</time>
 </article>
 {% endfor %}
