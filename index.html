@@ -12,9 +12,34 @@ title: Index
 } */
 
 </style>
+<script type="text/javascript">
+
+    function changeText()
+        {
+            var display = document.getElementById('url');
+             var randomIndex;
+            var HREF;
+            var title;
+            randomIndex = Math.floor(Math.random() * postsHREF.length);
+            var title = postsTitle[randomIndex];
+            var HREF = postsHREF[randomIndex];
+            var link = title.link(HREF);
+            display.innerHTML = "";
+            display.innerHTML = link;
+          
+            }
+        
+          function changeback()
+        {
+            var display = document.getElementById('url');
+            display.innerHTML = "";
+            display.innerHTML = "a conditional form";
+        }
+
+</script>
   <article class="post index" role="article">
       <h1 class="post-title">
-        {{ site.description }} a conditional form
+        {{ site.description }} <div id='url' onmouseenter="changeText()" onmouseleave="changeback()" style = "text-decoration:underline;">a conditional form</div>
       </h1>
     </centre>
   </article>
