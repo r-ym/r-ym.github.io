@@ -36,6 +36,7 @@ title: About
       }
 .job-title {
         margin: 0;
+        color: rgb(255,20,147);
       }
 
 .job-period {
@@ -110,7 +111,7 @@ title: About
 
 
 
-<h3>[ DIGITAL + PHYSICAL space ]</h3>
+<h3>[ DIGITAL + PHYSICAL ]</h3>
 &#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ) [Apple Music](https://music.apple.com/profile/ramanyachi) [Instagram](https://www.instagram.com/mxthur/)
 <br>
 <br>
