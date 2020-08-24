@@ -3,7 +3,7 @@ layout: post
 title: Interacting w Physical Space
 date: 2020-05-19 18:23 +0900
 ---
-Been taking a lot of photos on my phone lately. To commemorate my time here in Japan but to also disrupt the constant flow of media consumption.
+Been taking a lot of photos on my phone lately. To commemorate my time here in Japan but to also disrupt the constant of media consumption by way of creation.
 
 Never realized how deliberate an act of creation pressing a button could be. Why do we bother pressing what we see into this compressed and lossy format, through a device vastly inferior to our eye. The post-processing algorithms only mere shadows to the image-dedicated neural circuitry whirring in our heads every waking minute. What then can be evoked?
 
