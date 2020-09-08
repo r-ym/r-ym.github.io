@@ -11,7 +11,7 @@ vendor
 *.log
 *.gz
 *.tex
-_data/Currents.csv
+_data/books.csv
 cutter.py
 .DS_Store
 _books/the_art_of_seduction.md
