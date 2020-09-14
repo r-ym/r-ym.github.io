@@ -9,7 +9,7 @@ Brown Sugar and Voodoo, ordered chronologically. Brown Sugar made me feel invinc
 
 Voodoo, to me, was borne of the pain when every relationship has crumbled and slipped through your fingers time after time despite all sorts of schemes and machinations. The kind of pain that makes you go under and inwards. The desolation of Voodoo was a lot more relatable to me at 16, when my first 'relationship' failed and I kept questioning whether I was man enough. What did masculinity mean and would the answer doom me ? Thru it all I aspired to be a man who could relate to Brown Sugar. By knowing affection in excess.  I believe I have experienced what I had wished for then. Lust in varying hues, and the charms and turbulence of passion. Despite going through that gauntlet Voodoo still remains the album closer to me. Maybe because we eventually learn that the joy in fleeting affections is just as fleeting.
 
-2 years before my arrival in the Amerikkka's Black Messiah dropped. It was hard to  wrap your head around. Prince textures, disembodied voices, that man Pino on bass. This is where the myth of D'angelo came to an end. The perfect body and cheekbones on Untitled gave way to a man jaded on beauty. For a reason that was then alien to me.
+2 years before my arrival in the Amerikkka's Black Messiah dropped. It was hard to  wrap your head around. Prince textures, disembodied voices, that man Pino on bass. This is where the myth of D'angelo came to an end. The perfect body and cheekbones on Untitled gave way to a man jaded on beauty. For a reason that was then alien to me. He talked 
 
 
 
