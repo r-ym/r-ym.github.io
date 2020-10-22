@@ -1,3 +1,70 @@
+// a,a:visited {
+//   color: black;
+//   font-weight: bold;
+
+//   &:hover {
+//     color: dodgerblue;
+//   }
+// }
+
+// a.active {
+//   background: black;
+//   padding: 0.5rem;
+//   color: white;
+//   font-weight: bold;
+// }
+
+.post-title {
+  background: black;
+  margin: 10rem 0;
+  color: white;
+  padding: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+	html,html[data-theme="dark"] {
+    
+    a,a:visited {
+      color: white;
+      font-weight: bold;
+    
+      &:hover {
+        color: rgb(255,20,147);
+      }
+    }
+    
+    a.active {
+      background: white;
+      padding: 0.5rem;
+      color: black;
+    }
+    
+    
+	}
+	
+  html[data-theme="light"] { 
+  a,a:visited {
+  color: black;
+  font-weight: bold;
+
+  &:hover {
+    color: rgb(255,20,147);
+  }
+}
+
+a.active {
+  background: black;
+  padding: 0.5rem;
+  color: white;
+  font-weight: bold;
+}
+
+	}
+}
+
+
 body {
   font-size: 1rem;
   line-height: 1.5;
@@ -10,31 +77,6 @@ body {
 
 header p strong {
     text-transform: uppercase;
-}
-
-.post-title {
-    background: black;
-    margin: 10rem 0;
-    color: white;
-    padding: 2rem;
-    font-weight: bold;
-    text-align: center;
-}
-
-a,a:visited {
-  color: black;
-  font-weight: bold;
-
-  &:hover {
-    color: dodgerblue;
-  }
-}
-
-a.active {
-    background: black;
-    padding: 0.5rem;
-    color: white;
-    font-weight: bold;
 }
 
 blockquote {
@@ -51,6 +93,7 @@ blockquote {
   footer {
     font-size: 90%;
     margin: 1rem 0 0 0;
+
   }
 }
 

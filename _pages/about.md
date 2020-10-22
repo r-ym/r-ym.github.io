@@ -29,6 +29,14 @@ title: About
         background-color: #fff;
       }
 
+.about-container {
+        /* margin-top: 0.275rem; align optically with job title */
+        border: 3px dashed;
+        padding: 1rem;
+        border-radius: 3px;
+        border-color: rgb(255,20,147);
+      }
+
 .job-logo {
         /* display: block; */
         width: 100%;
@@ -44,6 +52,9 @@ title: About
         opacity: 0.8;
 }
 </style>
+<p class="about-container">
+I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to study Computer Engineering at Drexel University. Currently in Tokyo seeking work. 
+</p>
 <h3>[ EXPERIENCE ]</h3>
  <ul class="job-list">
             <li>
@@ -107,15 +118,11 @@ title: About
               </div>
             </li>
           </ul>
-  
 
-
+<br>
 
 <h3>[ DIGITAL + PHYSICAL ]</h3>
 &#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ) [Instagram](https://www.instagram.com/ramanyachi/)
 <br>
 <br>
 &#x1f48c; &nbsp; &nbsp;ramanyachi [at] gmail.com
-<br>
-<br>
-&#x1F4CD; &nbsp; &nbsp;Tokyo

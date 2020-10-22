@@ -11,9 +11,11 @@ layout: compress
         {{ content }}
       </main>
     <hr>
-  
-    {% include footer.html %}  
+      
+
+    <!-- {% include footer.html %}   -->
     
-    
+    <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+  <script src="/scripts/mode-switcher.js"></script>
   </body>
 </html>

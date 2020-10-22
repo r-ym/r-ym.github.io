@@ -1,3 +1,35 @@
+// html {      // --main-background-color: rgb(255, 255, 255);
+//       body{background-color: rgb(255, 255, 255)}
+// }
+
+
+// @media (prefers-color-scheme: dark) {
+// 	html {      // --main-background-color: rgb(255, 255, 255);
+//         body{background-color: rgb(0, 0, 0)}
+//   }
+
+// }
+
+// html, html[data-theme="light"] { 
+//   	body{background-color: rgb(255, 255, 255)}
+// }
+
+// html[data-theme="dark"] {
+//   		body{background-color: rgb(0, 0, 0)}
+// 	}
+
+@media (prefers-color-scheme: dark) {
+	html, html[data-theme="dark"] {
+        body{background-color: rgb(0, 0, 0);
+            color: white;}
+	}
+	
+	html[data-theme="light"] { 
+        body{background-color: rgb(255, 255, 255);
+        color:black;}
+	}
+}
+
 html {
   box-sizing: border-box;
 }
@@ -15,9 +47,9 @@ strong, b, h1, h2, h3, h4 {
 }
 
 hr {
-    background: black;
+    background: yellow;
     border: 0;
-    height: 2px;
+    height: 0px;
     margin: 2rem 0;
     width: 100%;
 }
@@ -57,6 +89,6 @@ nav {
     }
 }
 
-footer {
-    margin: 2rem 0;
-}
+// footer {
+//     margin: 0rem 0;
+// }
