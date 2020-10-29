@@ -45,21 +45,21 @@
 	}
 	
   html[data-theme="light"] { 
-  a,a:visited {
-  color: black;
-  font-weight: bold;
+    a,a:visited {
+    color: black;
+    font-weight: bold;
 
-  &:hover {
-    color: rgb(255,20,147);
+    &:hover {
+      color: rgb(255,20,147);
+    }
   }
-}
 
-a.active {
-  background: black;
-  padding: 0.5rem;
-  color: white;
-  font-weight: bold;
-}
+  a.active {
+    background: black;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bold;
+  }
 
 	}
 }
