@@ -1,22 +1,4 @@
-// html {      // --main-background-color: rgb(255, 255, 255);
-//       body{background-color: rgb(255, 255, 255)}
-// }
 
-
-// @media (prefers-color-scheme: dark) {
-// 	html {      // --main-background-color: rgb(255, 255, 255);
-//         body{background-color: rgb(0, 0, 0)}
-//   }
-
-// }
-
-// html, html[data-theme="light"] { 
-//   	body{background-color: rgb(255, 255, 255)}
-// }
-
-// html[data-theme="dark"] {
-//   		body{background-color: rgb(0, 0, 0)}
-// 	}
 
 @media (prefers-color-scheme: dark) {
 	html, html[data-theme="dark"] {
