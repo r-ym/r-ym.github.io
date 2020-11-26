@@ -122,7 +122,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
 <br>
 
 <h3>[ DIGITAL + PHYSICAL ]</h3>
-&#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/12183531592?si=nT6RQpA-TFS4TrjuIYmwlQ) [Instagram](https://www.instagram.com/ramanyachi/)
+&#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
 <br>
 <br>
 &#x1f48c; &nbsp; &nbsp;ramanyachi [at] gmail.com
