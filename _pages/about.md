@@ -110,7 +110,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
               </header>
               <div>
                 <p>
-                  Conducted research on perovskite solar cells at the <a href="http://users.sussex.ac.uk/~qc25/index.html" style="font-weight:normal">Chen Nanoscience Lab</a> under Professor Qiao Chen. This entailed fabrication and the study of fabrication methods along with extensive testing to gauge photoconversion efficiency and cell longevity.
+                  Conducted research on perovskite solar cells at the <a class="squiggle" href="http://users.sussex.ac.uk/~qc25/index.html">Chen Nanoscience Lab</a> under Professor Qiao Chen. This entailed fabrication and the study of fabrication methods along with extensive testing to gauge photoconversion efficiency and cell longevity.
                 </p>
                 <p>
                   Incredibly grateful to everyone in the group for their support and allowing me to play a part. The steady acceleration to the erosion of our environment concerns and pains me to no end, and it soothes me to know that there exist teams like Prof Chen's working towards sustainability.
