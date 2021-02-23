@@ -37,17 +37,23 @@ hr {
 }
 
 table {
-    border-collapse: collapse;
-    text-align: left;
+    // border-collapse: collapse;
+    border: 1px solid red;
+    text-align: center;
     width: 100%;
 
     tr {
-        border-bottom: 1px solid black;
+        padding: 0rem;
+        border: 1px solid red;
+        height: auto
     }
 
     td {
-        padding: 0.5rem;
+        padding: 0rem;
+        border: 1px solid red;
+        height: auto
     }
+
 }
 
 img {

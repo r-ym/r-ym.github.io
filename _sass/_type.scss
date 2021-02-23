@@ -1,13 +1,5 @@
 
 
-.post-title {
-  background: black;
-  margin: 10rem 0;
-  color: white;
-  padding: 2rem;
-  font-weight: bold;
-  text-align: center;
-}
 
 @media (prefers-color-scheme: dark) {
 	html,html[data-theme="dark"] {
@@ -26,7 +18,14 @@
       padding: 0.5rem;
       color: black;
     }
-    
+    .post-title {
+  background: white;
+  margin: 10rem 0;
+  color: black;
+  padding: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
     
 	}
 	
@@ -46,10 +45,25 @@
     color: white;
     font-weight: bold;
   }
-
+  .post-title {
+  background: black;
+  margin: 10rem 0;
+  color: white;
+  padding: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
 	}
 }
 
+
+table {
+  width: 20%;
+}
+
+th {
+  height: 70px;
+}
 
 body {
   font-size: 1rem;
