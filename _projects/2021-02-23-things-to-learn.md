@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Things To Learn
+layout: project
+title: Learning in Public
 date: 2021-02-23 12:59 +0900
 ---
-In the spirit of learning in public I want to lay bare all the domains and subdomains of knowledge I know I lack, and am striving towards in when I can. These will be grouped under three sets of Professional, Life and Academic.
+In the spirit of learning I want to lay bare all the domains and subdomains of knowledge I know I lack, and am striving towards in when I can. These will be grouped under three sets of Professional, Life and Academic.
 
 Work will encompass programming, math and other tangential fields. The Integral will revolve around the passions that govern my waking life, and thus 'Integral' – futbol, tech , food, family, friends along with the fleeting pleasures or banalities of the day to day. The Alchemical set will comprise of intrigues in academic fields I have sort of pruned from my professional life like biology, zoology and physics, but remain a mainstay through literature. There is already a book section so there will be a lot of cross-linkage in between (this makes me ponder whether a back-linking feature like Roam's would be worth adding to the site). Alchemical because how we synthesize knowledge via print is of such nature. 
 
