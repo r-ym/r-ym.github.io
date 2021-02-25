@@ -14,13 +14,13 @@ A process that cascades from another consciousness down to technology available 
 
 <h3>Professional　真剣</h3>
 - Where do I fit into tech
-- Gaming/shaders/raytracing
+- Gaming tech such as shaders and ray-tracing
 - Rust and its intricacies
 - The state of enterprise in tech
-- DevOps, Serverless, Containers, Redis
+- DevOps, Serverless, Containers, Redis etc.
 
 <h3>Integral　大事</h3>
-- Running on E
+- Running on Empty
 
 <h3>Alchemical　錬金術</h3>
 - Science fiction ∩ Tech
