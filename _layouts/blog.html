@@ -4,6 +4,7 @@ title: Notes
 ---
 
 {% for post in site.posts %}
+{% if post.link %}
 <article role="article">
   <h2><a href="{{ site.baseurl }}{{ post.url }}">
     {{ post.title }}
@@ -11,5 +12,6 @@ title: Notes
   <p>{{ post.summary }}</p>
     <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
 </article>
+{% endif %}
 {% endfor %}
 

@@ -2,6 +2,7 @@
 layout: post
 title: Interacting w Physical Space
 date: 2020-05-19 18:23 +0900
+link: true
 ---
 Been taking a lot of photos on my phone lately. To commemorate my time here in Japan but to also disrupt the constant of media consumption by way of creation.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Fukushima
 date: 2020-06-11 19:21 +0900
+link: true
 ---
 The train ride to Fukushima was pretty long from what I can remember. Stops at non-descript stations for no one in particular. Idle waits at the bigger station buildings where trains either roared past or rolled by. As a kid I would never settle for any seat that was not by the window, man was stubborn like that.
 

@@ -2,6 +2,7 @@
 layout: post
 title: D'Angelo with the Vanguard and without
 date: 2020-05-27 17:01 +0900
+link: true
 ---
 I stumbled upon D'angelo's music in high school. It was around 10th grade and I had just transitioned out of my mother's soul records to hone in on the Manchester sound and be a big man. While this was only a couple years ago music discovery was markedly different then, so was storage. Youtube was the prime resource to determine whether an artist fit your tastes. Once you found your mark you would do the needful torrenting. Storage limits were a lot more tangible pre-cloud, and each megabyte was territory to be carefully appraised then staked. In that economy of finite space it was amazing to find an artist with only 2 albums to his discography. Both works of a Dionysian sensuality I had never experienced before.
 
