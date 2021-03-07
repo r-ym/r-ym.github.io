@@ -18,6 +18,7 @@ A process that cascades from another consciousness down to technology available 
 - Rust and its intricacies
 - The state of enterprise in tech
 - DevOps, Serverless, Containers, Redis etc.
+- Finance/fin-tech/infrastructure underneath
 
 <h3>Integral　大事</h3>
 - Running on Empty
