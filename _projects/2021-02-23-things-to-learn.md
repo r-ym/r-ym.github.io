@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Learning in Public
-date: 2021-02-23 12:59 +0900
+summary: It is what it is
 ---
 In the spirit of learning I want to lay bare all the domains and subdomains of knowledge I know I lack, and am striving towards in when I can. These will be grouped under three sets of Professional, Life and Academic.
 
@@ -14,11 +14,13 @@ A process that cascades from another consciousness down to technology available 
 
 <h3>Professional　真剣</h3>
 - Where do I fit into tech
-- Gaming tech such as shaders and ray-tracing
+- Shaders and ray-tracing
 - Rust and its intricacies
-- The state of enterprise in tech
+- The state of enterprise
 - DevOps, Serverless, Containers, Redis etc.
-- Finance/fin-tech/infrastructure underneath
+- Finance/infrastructure underneath it
+- DEEP Deep Learning literature
+
 
 <h3>Integral　大事</h3>
 - Running on Empty

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Making Backlinks work
 summary: Obsidian to Jekyll.
 ---

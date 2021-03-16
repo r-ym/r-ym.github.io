@@ -1,9 +1,12 @@
-<nav role="navigation">
+
+	<nav role="navigation">
   <ul>
     <li><a class="squiggle" href="/" {% if page.url == "/home" %}class="active"{% endif %}>Home</a></li>
     <li><a class="squiggle" href="/notes" {% if page.url == "/notes" %}class="active"{% endif %}>Notes</a></li>
     <li><a class="squiggle" href="/books" {% if page.url == "/books" %}class="active"{% endif %}>Books</a></li>
     <li><a class="squiggle" href="/projects" {% if page.url == "/projects" %}class="active"{% endif %}>Projects</a></li>
     <li><a class="squiggle" href="/about" {% if page.url == "/about" %}class="active"{% endif %}>About</a></li>
+    <li><a class="squiggle" href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+  <script src="/scripts/mode-switcher.js"></script></li>
   </ul>
 </nav>

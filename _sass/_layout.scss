@@ -77,6 +77,21 @@ nav {
     }
 }
 
+
+#textbox {display:flex; flex-flow:row wrap;}
+
+.alignleft {
+width:33.33333%;
+text-align:left;
+}
+.aligncenter {
+width:33.33333%;
+text-align:center;
+}
+.alignright {
+width:33.33333%;
+text-align:right;
+}
 // footer {
 //     margin: 0rem 0;
 // }
