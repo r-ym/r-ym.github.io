@@ -61,6 +61,13 @@ img {
     margin: 0.5rem 0;
 }
 
+header {
+    width: 100%;
+    // align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
 nav {
     ul {
         list-style: none;
@@ -69,6 +76,7 @@ nav {
 
         li {
             display: inline-block;
+            // width: 12.5%;
         }
     }
     a {
