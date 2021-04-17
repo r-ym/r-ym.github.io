@@ -85,7 +85,23 @@ nav {
     }
 }
 
+// summary{
+//     outline:none
+// }
 
-// footer {
-//     margin: 0rem 0;
+// details > summary {
+//   cursor: pointer;
+//   list-style: none;
+// }
+
+// details > summary::-webkit-details-marker {
+//   display: none;
+// }
+
+// details > p {
+//   border-radius: 0 0 10px 10px;
+//   background-color: #ddd;
+//   padding: 2px 6px;
+//   margin: 0;
+//   box-shadow: 3px 3px 4px black;
 // }

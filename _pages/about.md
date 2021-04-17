@@ -20,7 +20,6 @@ title: About
 .job-logo-container {
         height: 5rem;
         width: 5rem;
-        /* margin-top: 0.275rem; align optically with job title */
         margin-right: 1rem;
         border: 2px solid;
         padding: 1rem;
@@ -30,7 +29,6 @@ title: About
       }
 
 .about-container {
-        /* margin-top: 0.275rem; align optically with job title */
         border: 3px dashed;
         padding: 1rem;
         border-radius: 3px;
@@ -38,8 +36,8 @@ title: About
       }
 
 .job-logo {
-        /* display: block; */
-        width: 100%;
+        /*display: block; */
+        width: : 100%;
         object-fit: cover;
       }
 .job-title {
