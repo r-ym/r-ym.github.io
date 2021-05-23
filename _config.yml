@@ -75,3 +75,6 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+    exclude:
+  - svelte-components
