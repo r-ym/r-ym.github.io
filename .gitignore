@@ -5,18 +5,8 @@ _site
 vendor
 
 #resume
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.gz
-*.tex
-_data/books.csv
-cutter.py
+*.sh
 .DS_Store
 _books/the_art_of_seduction.md
 _books/the_courage_to_be_disliked.md
-.DS_Store
-.obsidian
 .bundle
-.ztr-directory
