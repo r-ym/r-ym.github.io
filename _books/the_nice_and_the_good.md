@@ -2,7 +2,7 @@
 authors: Iris Murdoch
 title: The Nice and the Good
 layout: book
-link: true
+link: false
 ---
 Don't know what it is about Murdoch's worlds that makes them so distinctive. The elements are almost uniform, a character, their decisions, the subsequent muddle. All of it drifting on some indescribable ether in a universe similar to ours, save for one metaphysical law or the other. The way the characters grow and shrink. Seemingly grand one moment, small and despicable the next. The effect is jarring but Murdoch somehow come through with THE deftness.
 
