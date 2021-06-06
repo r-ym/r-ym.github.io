@@ -76,5 +76,3 @@ defaults:
     values:
       image: true
 
-    exclude:
-  - svelte-components
