@@ -3,7 +3,7 @@ url: https://r-ym.github.io
 title: +++
 description: notes on
 instagram:
-  username: mxthur
+  username: ramanyachi
   card: summary
 
 plugins:
@@ -28,6 +28,18 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap  
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      link: false
+      layout: post
+    projects:
+      layout: project
+      link: false
+      # permalink: /projects/:slug
+
 
 collections:
   pages:
