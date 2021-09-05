@@ -51,14 +51,14 @@ title: About
 }
 </style>
 <p class="about-container">
-I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to study Computer Engineering at Drexel University. Currently in Tokyo seeking work. 
+I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to study Computer Engineering at Drexel University. Currently in Tokyo. 
 </p>
 <h3>[ EXPERIENCE ]</h3>
  <ul class="job-list">
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/elyah.png" class="job-logo" alt="Elyah" />
+                  <img src="/assets/images/elyah.png" class="job-logo" alt="Elyah" />
                 </picture>
                 <div>
                   <h3 class="job-title">Quantum Computing Intern</h3>
@@ -78,7 +78,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/jm.png" class="job-logo" alt="JM" />
+                  <img src="assets/images/jm.png" class="job-logo" alt="JM" />
                 </picture>
                 <div>
                   <h3 class="job-title">R&D Intern</h3>
@@ -98,7 +98,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
-                  <img src="/images/work/uofs.png" class="job-logo" alt="Sussex" />
+                  <img src="assets/images/uofs.png" class="job-logo" alt="Sussex" />
                 </picture>
                 <div>
                   <h3 class="job-title">International Research Scholar</h3>
@@ -120,7 +120,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
 <br>
 
 <h3>[ DIGITAL + PHYSICAL ]</h3>
-&#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/resume/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
+&#x26D3; &nbsp; &nbsp;[Resume](https://r-ym.github.io/assets/resume.pdf) [Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
 <br>
 <br>
 &#x1f48c; &nbsp; &nbsp;ramanyachi [at] gmail.com

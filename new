@@ -2,12 +2,12 @@
 if [ "$1" = "post" ];then
 	echo "Post name?"
 	read name
-	cd ~/Github/r-ym.github.io
+	cd ~/Git/r-ym.github.io
 	bundle exec jekyll compose "$name" --collection "posts"
 elif [ "$1" = "project" ];then
 	echo "Project name?"
 	read name
-	cd ~/Github/r-ym.github.io
+	cd ~/Git/r-ym.github.io
 	bundle exec jekyll compose "$name" --collection "projects"
 else
 	echo "Invalid Collection type"
