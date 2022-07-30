@@ -5,77 +5,111 @@ title: About
 <style>
 
 .job-list {
-        list-style: none;
-        padding-left: 0;
-      }
+  list-style: none;
+  padding-left: 0;
+}
 
 .job-list li:not(:first-child) {
-        margin-top: 2rem;
-      }
+  margin-top: 2rem;
+}
 
 .job-header {
-        display: flex;
-      }
+  display: flex;
+}
 
 .job-logo-container {
-        height: 5rem;
-        width: 5rem;
-        margin-right: 1rem;
-        border: 2px solid;
-        padding: 1rem;
-        border-radius: 8px;
-        border-color: black;
-        background-color: #fff;
-      }
+  /*height: 5rem;*/
+  /*width: 5rem;*/
+  /*margin-top: 0.425rem;*/
+  /*margin-right: 1rem;*/
+  /*border: 2px solid;*/
+  /*padding: 1rem;*/
+  /*flex-shrink: 1;*/
+  /*border-radius: 8px;*/
+  /*border-color: black;*/
+  /*background-color: #fff;*/
+  /*text-align:  center;*/
+  margin-top: 0.425rem;  /*align optically with top of job title */
+  margin-right: 1rem;
+  /*padding: 0.125rem 0.625rem 0.125rem 0.625rem;*/
+  padding: 0.125rem;
+  flex-shrink: 0;
+  border: 1px solid;
+  border-radius: 0.5rem;
+  border-color: black;
+  background-color: #fff;
+}
 
 .about-container {
-        border: 3px dashed;
-        padding: 1rem;
-        border-radius: 3px;
-        border-color: rgb(255,20,147);
-      }
+  border: 3px dashed;
+  padding: 1rem;
+  border-radius: 3px;
+  border-color: rgb(255,20,147);
+}
 
 .job-logo {
-        /*display: block; */
-        width: : 100%;
-        object-fit: cover;
-      }
+  display: block; 
+  width: 4rem;
+  height: 4rem;
+}
 .job-title {
-        margin: 0;
-        color: rgb(255,20,147);
-      }
+  margin: 0;
+  color: rgb(255,20,147);
+}
 
 .job-period {
-        font-size: 0.875rem;
-        opacity: 0.8;
+  font-size: 0.875rem;
+  opacity: 0.8;
 }
 </style>
 <p class="about-container">
-I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to study Computer Engineering at Drexel University. Currently in Tokyo. 
+  I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to study Computer Engineering at Drexel University. Currently in Tokyo. 
 </p>
 <h3>[ EXPERIENCE ]</h3>
- <ul class="job-list">
-            <li>
-              <header class="job-header">
-                <picture class="job-logo-container">
-                  <img src="/assets/images/elyah.png" class="job-logo" alt="Elyah" />
-                </picture>
-                <div>
-                  <h3 class="job-title">Quantum Computing Intern</h3>
-                  <div>Elyah · Tokyo</div>
-                  <div class="job-period">November 2019 – March 2020</div>
-                </div>
-              </header>
-              <div>
-                <p>
-                Worked on the back-end to Elyah's quantum computing simulator. Worked extensively in Rust. Went in with no prior experience in quantum computing, and due to the 6 month duration I had to quickly work up an adequate mental model that could take in complex quantum computing concepts and map them to a programmming basis.
-                </p>
-                <p>
-                In the process I learnt a lot about the field's mathematical foundations, its history and the current state of quantum computing modalities. Quantum and classical computing are distinct and powerful in their own regards and I am eager to see how large-scale quantum computing will be actualised.
-                </p>
-              </div>
-            </li>
-            <li>
+<ul class="job-list">
+  <li>
+    <header class="job-header">
+      <picture class="job-logo-container">
+        <div>
+          <img src="assets/images/cl.png" class="job-logo" alt="CL" />
+        </div>
+      </picture>
+      <div>
+        <h3 class="job-title">Machine learning intern</h3>
+        <div>CoLab · Tokyo</div>
+        <div class="job-period">June 2021 – December 2021</div>
+      </div>
+    </header>
+    <div>
+      <p>
+       Developed end-to-end robotics automation solutions for clients in various sectors. This involved architecting the machine learning pipeline — data collection, training, deployment etc. — against several real-world constraints — hardware costs, factory size, compute etc.
+     </p>
+     <p>
+      
+    </p>
+  </div>
+</li>
+<li>
+  <!-- <header class="job-header">
+    <picture class="job-logo-container">
+      <img src="/assets/images/elyah.png" class="job-logo" alt="Elyah" />
+    </picture> -->
+    <div>
+      <h3 class="job-title">Quantum computing intern</h3>
+      <div>Elyah · Tokyo</div>
+      <div class="job-period">November 2019 – March 2020</div>
+    </div>
+  </header>
+  <div>
+    <p>
+      Worked on the back-end to Elyah's quantum computing simulator. Worked extensively in Rust. Went in with no prior experience in quantum computing, and due to the 6 month duration I had to quickly work up an adequate mental model that could take in complex quantum computing concepts and map them to a programmming basis.
+    </p>
+    <p>
+      In the process I learnt a lot about the field's mathematical foundations, its history and the current state of quantum computing modalities. Quantum and classical computing are distinct and powerful in their own regards and I am eager to see how large-scale quantum computing will be actualised.
+    </p>
+  </div>
+</li>
+           <!--  <li>
               <header class="job-header">
                 <picture class="job-logo-container">
                   <img src="assets/images/jm.png" class="job-logo" alt="JM" />
@@ -94,7 +128,7 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
                   First experience in a b2b corporation where I learnt more about the forces that shape scientific research in a corporate institution. An immensely educational experience.
                 </p>
               </div>
-            </li>
+            </li> -->
             <li>
               <header class="job-header">
                 <picture class="job-logo-container">
@@ -117,10 +151,10 @@ I am Japanese-Indian, born and raised in India. Moved to the USA in 2016 to stud
             </li>
           </ul>
 
-<br>
+  <br>
 
-<h3>[ DIGITAL + PHYSICAL ]</h3>
-&#x26D3; &nbsp; &nbsp;[Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
-<br>
-<br>
-&#x1f48c; &nbsp; &nbsp;ramanyachi [at] gmail.com
+  <h3>[ DIGITAL + PHYSICAL ]</h3>
+  &#x26D3; &nbsp; &nbsp;[Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
+  <br>
+  <br>
+  &#x1f48c; &nbsp; &nbsp;ramanyachi [at] gmail.com
