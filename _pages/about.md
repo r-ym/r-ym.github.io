@@ -52,7 +52,7 @@ title: About
   margin: auto;
   /*display: block;*/
   object-fit: cover;
-  /*vertical-align: middle;*/
+
   }
   /*display: block; 
   width: 4rem;  
@@ -77,7 +77,7 @@ title: About
     <header class="job-header">
       <picture class="job-logo-container">
         <div>
-          <img src="assets/images/apple.png" class="job-logo" alt="CL" />
+          <img src="assets/images/apple2.png" class="job-logo" alt="CL" />
         </div>
       </picture>
       <div>
