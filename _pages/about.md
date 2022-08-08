@@ -18,27 +18,26 @@ title: About
 }
 
 .job-logo-container {
-  /*height: 5rem;*/
-  /*width: 5rem;*/
-  /*margin-top: 0.425rem;*/
-  /*margin-right: 1rem;*/
-  /*border: 2px solid;*/
-  /*padding: 1rem;*/
-  /*flex-shrink: 1;*/
-  /*border-radius: 8px;*/
-  /*border-color: black;*/
-  /*background-color: #fff;*/
-  /*text-align:  center;*/
-  margin-top: 0.425rem;  /*align optically with top of job title */
+  height: 5rem;
+  width: 5rem;
   margin-right: 1rem;
-  /*padding: 0.125rem 0.625rem 0.125rem 0.625rem;*/
+  border: 2px solid;
+  padding: 1rem;
+  border-radius: 8px;
+  border-color: black;
+  background-color: #fff;
+  /*vertical-align: middle;*/
+  /*text-align: center;*/
+
+}
+/*  margin-right: 1rem;
   padding: 0.125rem;
   flex-shrink: 0;
   border: 1px solid;
   border-radius: 0.5rem;
   border-color: black;
   background-color: #fff;
-}
+}*/
 
 .about-container {
   border: 3px dashed;
@@ -48,10 +47,17 @@ title: About
 }
 
 .job-logo {
-  display: block; 
-  width: 4rem;
+  display: block;
+  width: : 100%;
+  margin: auto;
+  /*display: block;*/
+  object-fit: cover;
+  /*vertical-align: middle;*/
+  }
+  /*display: block; 
+  width: 4rem;  
   height: 4rem;
-}
+}*/
 .job-title {
   margin: 0;
   color: rgb(255,20,147);
@@ -71,89 +77,62 @@ title: About
     <header class="job-header">
       <picture class="job-logo-container">
         <div>
-          <img src="assets/images/cl.png" class="job-logo" alt="CL" />
+          <img src="assets/images/apple.png" class="job-logo" alt="CL" />
         </div>
       </picture>
       <div>
-        <h3 class="job-title">Machine learning intern</h3>
-        <div>CoLab · Tokyo</div>
-        <div class="job-period">June 2021 – December 2021</div>
+        <h3 class="job-title">Software Engineering intern</h3>
+        <div>Apple · Tokyo</div>
+        <div class="job-period">January 2022 – September 2021</div>
       </div>
     </header>
     <div>
       <p>
-       Developed end-to-end robotics automation solutions for clients in various sectors. This involved architecting the machine learning pipeline — data collection, training, deployment etc. — against several real-world constraints — hardware costs, factory size, compute etc.
+       Collaborated on an end-to-end MLOps pipeline for computer vision. With a heavy focus on ease-of-use for the user with regards to data-collection, dataset versioning, model parameter tuning, deployment and performance analysis. Extensively leveraged cloud tooling for storage and computation, along with Docker for deterministic builds and scalable model training.
      </p>
-     <p>
-      
-    </p>
   </div>
 </li>
 <li>
-  <!-- <header class="job-header">
-    <picture class="job-logo-container">
-      <img src="/assets/images/elyah.png" class="job-logo" alt="Elyah" />
-    </picture> -->
-    <div>
-      <h3 class="job-title">Quantum computing intern</h3>
-      <div>Elyah · Tokyo</div>
-      <div class="job-period">November 2019 – March 2020</div>
+  <header class="job-header">
+      <picture class="job-logo-container">
+        <div>
+          <img src="assets/images/cl.png" class="job-logo" alt="CL" />
+        </div>
+      </picture>
+      <div>
+      <h3 class="job-title">Software Engineeering intern</h3>
+      <div>CoLab · Tokyo</div>
+      <div class="job-period">June 2021 – December 2021</div>
     </div>
   </header>
   <div>
     <p>
-      Worked on the back-end to Elyah's quantum computing simulator. Worked extensively in Rust. Went in with no prior experience in quantum computing, and due to the 6 month duration I had to quickly work up an adequate mental model that could take in complex quantum computing concepts and map them to a programmming basis.
-    </p>
-    <p>
-      In the process I learnt a lot about the field's mathematical foundations, its history and the current state of quantum computing modalities. Quantum and classical computing are distinct and powerful in their own regards and I am eager to see how large-scale quantum computing will be actualised.
+      Developed end-to-end robotics automation solutions for clients in various sectors. This involved architecting the machine learning pipeline — data collection, training, deployment etc. — against several real-world constraints — hardware costs, factory size, compute etc.
     </p>
   </div>
 </li>
-           <!--  <li>
-              <header class="job-header">
-                <picture class="job-logo-container">
-                  <img src="assets/images/jm.png" class="job-logo" alt="JM" />
-                </picture>
-                <div>
-                  <h3 class="job-title">R&D Intern</h3>
-                  <div>Johnson Matthey · Philadelphia</div>
-                  <div class="job-period">September 2018 – April 2019</div>
-                </div>
-              </header>
-              <div>
-                <p>
-                 Conducted research on vehicle exhaust emissions control under the Clean Air Division. Specifically on Diesel oxidation catalysts. This involved extensive lab work and data-analysis on material chemistry and conversion dynamics, while also taking into account the costs of scaling from lab to production level.
-                </p>
-                <p>
-                  First experience in a b2b corporation where I learnt more about the forces that shape scientific research in a corporate institution. An immensely educational experience.
-                </p>
-              </div>
-            </li> -->
-            <li>
-              <header class="job-header">
-                <picture class="job-logo-container">
-                  <img src="assets/images/uofs.png" class="job-logo" alt="Sussex" />
-                </picture>
-                <div>
-                  <h3 class="job-title">International Research Scholar</h3>
-                  <div>University of Sussex · East Sussex</div>
-                  <div class="job-period">April 2017 – September 2017</div>
-                </div>
-              </header>
-              <div>
-                <p>
-                  Conducted research on perovskite solar cells at the <a href="http://users.sussex.ac.uk/~qc25/index.html" style="font-weight:normal">Chen Nanoscience Lab</a> under Professor Qiao Chen. This entailed fabrication and the study of fabrication methods along with extensive testing to gauge photoconversion efficiency and cell longevity.
-                </p>
-                <p>
-                  Incredibly grateful to everyone in the group for their support and allowing me to play a part. The steady acceleration to the erosion of our environment concerns and pains me to no end, and it soothes me to know that there exist teams like Prof Chen's working towards sustainability.
-                </p>
-              </div>
-            </li>
-          </ul>
+<li>
+  <header class="job-header">
+    <picture class="job-logo-container">
+      <img src="assets/images/uofs.png" class="job-logo" alt="Sussex" />
+    </picture>
+    <div>
+      <h3 class="job-title">International Research Scholar</h3>
+      <div>University of Sussex · East Sussex</div>
+      <div class="job-period">April 2017 – September 2017</div>
+    </div>
+  </header>
+  <div>
+    <p>
+      Conducted research on perovskite solar cells at the <a href="http://users.sussex.ac.uk/~qc25/index.html" style="font-weight:normal">Chen Nanoscience Lab</a> under Professor Qiao Chen. This entailed fabrication and the study of fabrication methods along with extensive testing to gauge photoconversion efficiency and cell longevity.
+    </p>
+  </div>
+</li>
+</ul>
 
-  <br>
 
-  <h3>[ DIGITAL + PHYSICAL ]</h3>
+
+  <h3>[ LINKS ]</h3>
   &#x26D3; &nbsp; &nbsp;[Github](https://github.com/r-ym) [Spotify](https://open.spotify.com/user/onr8q2y82f4f0plg8w9b9ew3e?si=3Fl04vuURIOt7sjrkF3hjA) [Instagram](https://www.instagram.com/ramanyachi/)
   <br>
   <br>
