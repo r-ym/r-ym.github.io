@@ -34,11 +34,8 @@ def generate_books(books_dir)
         d['link'] = false
         d.delete("id")
         # puts d.to_yaml
-        if File.exist? path
-          puts "#{path} already exits. Skipping."
-        else
+        if not File.exist? path
           File.open(path, 'w') { |f| f.write("#{d.to_yaml}---") }
-          # puts d.to_yaml
         end
         path
       end

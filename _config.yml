@@ -27,7 +27,8 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-sitemap
+  # - calibre-gen.rb
 
 jekyll_compose:
   auto_open: true
