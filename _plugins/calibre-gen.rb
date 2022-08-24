@@ -31,12 +31,11 @@ def generate_books(books_dir)
       @data.map do |d|
         path = "#{@dir}/#{slug d["title"]}.md"
         d['layout'] = "book"
-        d['link'] = False
+        d['link'] = false
         d.delete("id")
         # puts d.to_yaml
         if File.exist? path
           puts "#{path} already exits. Skipping."
-
         else
           File.open(path, 'w') { |f| f.write("#{d.to_yaml}---") }
           # puts d.to_yaml
