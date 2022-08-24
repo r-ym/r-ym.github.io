@@ -31,6 +31,7 @@ def generate_books(books_dir)
       @data.map do |d|
         path = "#{@dir}/#{slug d["title"]}.md"
         d['layout'] = "book"
+        d['link'] = False
         d.delete("id")
         # puts d.to_yaml
         if File.exist? path

@@ -14,5 +14,3 @@ A Rube-Goldberg of exploitative labour allows Amazon to ensure one-day shipping.
 Cutlass and guillotine, but figurative. Never the violence of blood because it is soul-rending in its pointlessness. Which is why seeing weapons of mass-destruction like missile ships and SR-71s do loops and donuts is mad. Means to a reign of terror, and mufuckas want that theatre of war to soothe us into forgetting that front-line workers are going to die. But seeing the military-industrial-complex's pandering to the people emboldens me to hope that it can be toppled once we deny it our attention and support. Cutlass, figuratively. Find the ones signing these dumbass executive orders and you got your figurative guillotine.
 
 Deciding who rises up in a vacuum of power is a hard question to answer without circling back to the same system that gave birth to the problem. I do not know enough to wager a proposal, but once I read thru the {{ site.books | size }} pending books on my Kindle I'll come through.
-
-
